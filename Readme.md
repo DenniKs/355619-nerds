@@ -1,6 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Денис Ахметдинов](https://up.htmlacademy.ru/htmlcss/16/user/355619).
+* Студент: [Денис Ахметдинов1](https://up.htmlacademy.ru/htmlcss/16/user/355619).
 * Наставник: [Никита Рогатнев](https://up.htmlacademy.ru/htmlcss/16/user/86119).
 
 ---
